@@ -1,0 +1,5 @@
+{
+  "name": "Smart Study Planner",
+  "description": "A comprehensive Smart Study Planner web application that enables students to create and manage study goals, set personalized study schedules, and track academic task progress using local storage for data persistence.",
+  "requestFramePermissions": []
+}
