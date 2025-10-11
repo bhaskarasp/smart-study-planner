@@ -10,7 +10,7 @@ The **Smart Study Planner** is a web application designed to help students manag
 - **Responsive Design**: Optimized for both desktop and mobile devices for on-the-go access.
 
 ## Live Demo
-Check out the live demo of the Smart Study Planner [here](https://your-live-demo-link.com).
+Check out the live demo of the Smart Study Planner [here](https://68da58e004c466d3c93c6b7c--imaginative-moxie-646436.netlify.app/).
 
 ## Technology Stack
 - **HTML**: For structuring the application.
