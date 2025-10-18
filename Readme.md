@@ -22,9 +22,9 @@ Check out the live demo of the Smart Study Planner [here](https://68da58e004c466
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smart-study-planner.git
+   git clone https://github.com/bhaskarasp/smart-study-planner.git
 Navigate to the project directory:
-｀｀｀
+｀｀｀bash
 
 cd smart-study-planner
 
@@ -33,13 +33,13 @@ cd smart-study-planner
 
 Install the dependencies:
 
-｀｀｀
+｀｀｀bash
 npm install
 
 ｀｀｀
 Start the development server:
 
-｀｀｀
+｀｀｀bash
 npm start
 ｀｀｀
 Open your browser and navigate to http://localhost:3000 to view the application.
