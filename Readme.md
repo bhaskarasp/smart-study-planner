@@ -27,11 +27,15 @@ Navigate to the project directory:
 ｀｀｀
 
 cd smart-study-planner
+
 ｀｀｀
+
+
 Install the dependencies:
 
 ｀｀｀
 npm install
+
 ｀｀｀
 Start the development server:
 
