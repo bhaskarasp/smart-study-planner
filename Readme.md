@@ -24,11 +24,9 @@ Check out the live demo of the Smart Study Planner [here](https://68da58e004c466
    ```bash
    git clone https://github.com/bhaskarasp/smart-study-planner.git
 Navigate to the project directory:
-｀｀｀bash
-
-cd smart-study-planner
-
-｀｀｀
+   ｀｀｀bash
+   cd smart-study-planner
+   ｀｀｀
 
 Install the dependencies:
 
