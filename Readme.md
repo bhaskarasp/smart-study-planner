@@ -30,7 +30,6 @@ cd smart-study-planner
 
 ｀｀｀
 
-
 Install the dependencies:
 
 ｀｀｀bash
